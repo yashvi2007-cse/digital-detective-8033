@@ -94,15 +94,7 @@ digital-detective-8033/
 ├── mission-08-final-report/
 │
 └── evidence/
-    ├── mission-00-setup/
-    ├── mission-01-computer-basics/
-    ├── mission-02-terminal/
-    ├── mission-03-operating-system/
-    ├── mission-04-programs/
-    ├── mission-05-numbers-data/
-    ├── mission-06-git-github/
-    ├── mission-07-networking/
-    └── mission-08-final-report/
+
 ```
 
 ## 🔄 Git and Version Control
